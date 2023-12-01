@@ -1,7 +1,7 @@
 name: fast_snackbar
 description: A package fast simple Snackabar
 version: 0.0.1
-repository: https://github.com/Tomjerry12345/firebase_utilitas
+repository: https://github.com/Tomjerry12345/fast_snackbar.git
 license: MIT
 
 environment:
