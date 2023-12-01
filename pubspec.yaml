@@ -18,3 +18,14 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  plugin:
+    platforms:
+      android:
+        package: fast_snackbar
+        pluginClass: FastSnackbar
+      web:
+        package: fast_snackbar
+        pluginClass: FastSnackbar
+      windows:
+        package: fast_snackbar
+        pluginClass: FastSnackbar
