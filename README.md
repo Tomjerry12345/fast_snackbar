@@ -19,7 +19,7 @@ fast_snackbar: Simplifies snack bar presentation in Flutter. The FastSnackbar ex
 In your pubspec.yaml
 ```dart
 dependencies:
-  firebase_utilitas: ^latest-version
+  fast_snackbar: ^latest-version
 ```
 
 ## Usage
